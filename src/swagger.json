@@ -1,0 +1,11 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "RENTALX API",
+        "description": "Aplicação de listagem e cadastro de usuários feita com NodeJS utilizando princípios do SOLID.",
+        "version": "1.0.0",
+        "contact": {
+            "email": "antonia@gmail.com"
+        }
+    }
+}
